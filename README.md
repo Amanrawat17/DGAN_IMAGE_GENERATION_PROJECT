@@ -35,8 +35,8 @@ pip install -r requirements.txt
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/alihassanml/DCGAN-Image-Generate.git
-cd DCGAN-Image-Generate
+git clone https://github.com/Amanrawat17/DCGAN_Image_Generate.git
+cd DCGAN_Image_Generate
 ```
 
 ### 2. Train the Model
